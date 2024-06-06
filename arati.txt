@@ -1,1 +1,2 @@
 this is new file
+in this we check check difference betn working and staging area
